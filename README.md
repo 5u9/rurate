@@ -1,4 +1,4 @@
-# A Ruby on Rails with Postgres template on Gitpod
+# Rurate
 
 This is a [Ruby on Rails with Postgres](https://rubyonrails.org) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
